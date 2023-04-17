@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="40 -3 905 683" width="865px" height="686px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="790" y1="342" x2="780" y2="342" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="342" y1="558" x2="332" y2="558" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="780" y1="342" x2="342" y2="558" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="782.5" y1="342" x2="786.03553390593" y2="345.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="782.5" y1="342" x2="786.03553390593" y2="338.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="337" y1="558" x2="340.53553390593" y2="561.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="337" y1="558" x2="340.53553390593" y2="554.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="536" y1="521" x2="526" y2="521" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="514" y1="57" x2="504" y2="57" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="526" y1="521" x2="514" y2="57" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="528.5" y1="521" x2="532.03553390593" y2="524.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="528.5" y1="521" x2="532.03553390593" y2="517.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="509" y1="57" x2="512.53553390593" y2="60.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="509" y1="57" x2="512.53553390593" y2="53.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="536" y1="541" x2="526" y2="541" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="251" y1="372" x2="241" y2="372" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="526" y1="541" x2="251" y2="372" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="528.5" y1="541" x2="532.03553390593" y2="544.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="528.5" y1="541" x2="532.03553390593" y2="537.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="246" y1="372" x2="249.53553390593" y2="375.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="246" y1="372" x2="249.53553390593" y2="368.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="718" y1="65" x2="708" y2="65" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="514" y1="57" x2="504" y2="57" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="708" y1="65" x2="514" y2="57" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="710.5" y1="65" x2="714.03553390593" y2="68.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="710.5" y1="65" x2="714.03553390593" y2="61.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="509" y1="57" x2="512.53553390593" y2="60.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="509" y1="57" x2="512.53553390593" y2="53.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="718" y1="85" x2="708" y2="85" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="342" y1="558" x2="332" y2="558" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="708" y1="85" x2="342" y2="558" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="710.5" y1="85" x2="714.03553390593" y2="88.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="710.5" y1="85" x2="714.03553390593" y2="81.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="337" y1="558" x2="340.53553390593" y2="561.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="337" y1="558" x2="340.53553390593" y2="554.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="140" y1="261" x2="150" y2="261" style="stroke:#333;stroke-width:1;"/>
+   <line x1="158" y1="42" x2="168" y2="42" style="stroke:#333;stroke-width:1;"/>
+   <line x1="150" y1="261" x2="158" y2="42" style="stroke:#333;stroke-width:1;"/>
+   <line x1="147.5" y1="261" x2="143.96446609407" y2="264.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="147.5" y1="261" x2="143.96446609407" y2="257.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="163" y1="42" x2="159.46446609407" y2="45.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="163" y1="42" x2="159.46446609407" y2="38.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="140" y1="281" x2="150" y2="281" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="399" y1="57" x2="409" y2="57" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="150" y1="281" x2="399" y2="57" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="147.5" y1="281" x2="143.96446609407" y2="284.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="147.5" y1="281" x2="143.96446609407" y2="277.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="404" y1="57" x2="400.46446609407" y2="60.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="404" y1="57" x2="400.46446609407" y2="53.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <rect width="81" height="20" x="168" y="12" style="fill:#007;stroke:black;"/>
+   <text width="81" height="20" x="173" y="26" style="fill:#fff;" font-family="Arial" font-size="16px"> admin</text>
+   <rect width="81" height="20" x="168" y="32" style="fill:#aea;stroke:black;"/>
+   <text width="81" height="20" x="173" y="46" style="fill:black;" font-family="Arial" font-size="16px">Id_admin</text>
+   <rect width="81" height="20" x="168" y="52" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="173" y="66" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="81" height="20" x="168" y="72" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="173" y="86" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="81" height="20" x="168" y="92" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="173" y="106" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="100" height="20" x="790" y="192" style="fill:#007;stroke:black;"/>
+   <text width="100" height="20" x="795" y="206" style="fill:#fff;" font-family="Arial" font-size="16px"> apprenant</text>
+   <rect width="100" height="20" x="790" y="212" style="fill:#aea;stroke:black;"/>
+   <text width="100" height="20" x="795" y="226" style="fill:black;" font-family="Arial" font-size="16px">Id_apprenant</text>
+   <rect width="100" height="20" x="790" y="232" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="246" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="100" height="20" x="790" y="252" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="266" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="100" height="20" x="790" y="272" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="286" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="100" height="20" x="790" y="292" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="306" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="100" height="20" x="790" y="312" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="326" style="fill:black;" font-family="Arial" font-size="16px">age</text>
+   <rect width="100" height="20" x="790" y="332" style="fill:none;stroke:black;"/>
+   <text width="100" height="20" x="795" y="346" style="fill:black;" font-family="Arial" font-size="16px">Id_Validation</text>
+   <rect width="102" height="20" x="536" y="491" style="fill:#007;stroke:black;"/>
+   <text width="102" height="20" x="541" y="505" style="fill:#fff;" font-family="Arial" font-size="16px"> consulté</text>
+   <rect width="102" height="20" x="536" y="511" style="fill:#aea;stroke:black;"/>
+   <text width="102" height="20" x="541" y="525" style="fill:black;" font-family="Arial" font-size="16px">Id_Session</text>
+   <rect width="102" height="20" x="536" y="531" style="fill:#aea;stroke:black;"/>
+   <text width="102" height="20" x="541" y="545" style="fill:black;" font-family="Arial" font-size="16px">Id_Formateur</text>
+   <rect width="99" height="20" x="718" y="35" style="fill:#007;stroke:black;"/>
+   <text width="99" height="20" x="723" y="49" style="fill:#fff;" font-family="Arial" font-size="16px"> efectuer</text>
+   <rect width="99" height="20" x="718" y="55" style="fill:#aea;stroke:black;"/>
+   <text width="99" height="20" x="723" y="69" style="fill:black;" font-family="Arial" font-size="16px">Id_Session</text>
+   <rect width="99" height="20" x="718" y="75" style="fill:#aea;stroke:black;"/>
+   <text width="99" height="20" x="723" y="89" style="fill:black;" font-family="Arial" font-size="16px">Id_Validation</text>
+   <rect width="102" height="20" x="139" y="342" style="fill:#007;stroke:black;"/>
+   <text width="102" height="20" x="144" y="356" style="fill:#fff;" font-family="Arial" font-size="16px"> formateur</text>
+   <rect width="102" height="20" x="139" y="362" style="fill:#aea;stroke:black;"/>
+   <text width="102" height="20" x="144" y="376" style="fill:black;" font-family="Arial" font-size="16px">Id_Formateur</text>
+   <rect width="102" height="20" x="139" y="382" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="144" y="396" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="102" height="20" x="139" y="402" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="144" y="416" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="102" height="20" x="139" y="422" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="144" y="436" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="102" height="20" x="139" y="442" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="144" y="456" style="fill:black;" font-family="Arial" font-size="16px">role</text>
+   <rect width="85" height="20" x="55" y="231" style="fill:#007;stroke:black;"/>
+   <text width="85" height="20" x="60" y="245" style="fill:#fff;" font-family="Arial" font-size="16px"> gére</text>
+   <rect width="85" height="20" x="55" y="251" style="fill:#aea;stroke:black;"/>
+   <text width="85" height="20" x="60" y="265" style="fill:black;" font-family="Arial" font-size="16px">Id_admin</text>
+   <rect width="85" height="20" x="55" y="271" style="fill:#aea;stroke:black;"/>
+   <text width="85" height="20" x="60" y="285" style="fill:black;" font-family="Arial" font-size="16px">Id_Session</text>
+   <rect width="95" height="20" x="409" y="27" style="fill:#007;stroke:black;"/>
+   <text width="95" height="20" x="414" y="41" style="fill:#fff;" font-family="Arial" font-size="16px"> session</text>
+   <rect width="95" height="20" x="409" y="47" style="fill:#aea;stroke:black;"/>
+   <text width="95" height="20" x="414" y="61" style="fill:black;" font-family="Arial" font-size="16px">Id_Session</text>
+   <rect width="95" height="20" x="409" y="67" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="81" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="95" height="20" x="409" y="87" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="101" style="fill:black;" font-family="Arial" font-size="16px">Title</text>
+   <rect width="95" height="20" x="409" y="107" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="121" style="fill:black;" font-family="Arial" font-size="16px">Type</text>
+   <rect width="95" height="20" x="409" y="127" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="141" style="fill:black;" font-family="Arial" font-size="16px">Duration</text>
+   <rect width="95" height="20" x="409" y="147" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="161" style="fill:black;" font-family="Arial" font-size="16px">date_of_start</text>
+   <rect width="95" height="20" x="409" y="167" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="414" y="181" style="fill:black;" font-family="Arial" font-size="16px">date_of_end</text>
+   <rect width="127" height="20" x="205" y="528" style="fill:#007;stroke:black;"/>
+   <text width="127" height="20" x="210" y="542" style="fill:#fff;" font-family="Arial" font-size="16px"> validation</text>
+   <rect width="127" height="20" x="205" y="548" style="fill:#aea;stroke:black;"/>
+   <text width="127" height="20" x="210" y="562" style="fill:black;" font-family="Arial" font-size="16px">Id_Validation</text>
+   <rect width="127" height="20" x="205" y="568" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="210" y="582" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="127" height="20" x="205" y="588" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="210" y="602" style="fill:black;" font-family="Arial" font-size="16px">id_session</text>
+   <rect width="127" height="20" x="205" y="608" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="210" y="622" style="fill:black;" font-family="Arial" font-size="16px">validation_date</text>
+   <rect width="127" height="20" x="205" y="628" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="210" y="642" style="fill:black;" font-family="Arial" font-size="16px">expirition_date</text>
+   <rect width="127" height="20" x="205" y="648" style="fill:none;stroke:black;"/>
+   <text width="127" height="20" x="210" y="662" style="fill:black;" font-family="Arial" font-size="16px">cancelation_date</text>
+</svg>
