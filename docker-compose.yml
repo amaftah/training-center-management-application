@@ -10,10 +10,10 @@ services:
     image: mysql:8.0
     container_name: db
     environment:
-      MYSQL_ROOT_PASSWORD: gstcomrootpass
-      MYSQL_DATABASE: gstcomdb
-      MYSQL_USER: db_user
-      MYSQL_PASSWORD: db_user_pass
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: centerdb
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: userpass
     ports:
       - "6033:3306"
     volumes:
